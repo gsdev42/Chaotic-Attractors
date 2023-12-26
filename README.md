@@ -5,6 +5,9 @@
 
 The Lorenz system is chaotic dynamical system described by a set of three coupled ordinary differential equations, and it exhibits unpredictable behavior over time.
 
+<img width="274" alt="image" src="https://github.com/garima-sagar/Chaotic-Attractors/assets/145219684/f5893f64-edcd-49e7-bff6-4d155f41b26a">
+
+
 ## Prerequisites
 
 Make sure you have the required dependencies installed. You can install them using:
@@ -84,6 +87,9 @@ ________________________________________________________________________________
 # Rössler Attractor Simulation
 
 The Rössler system is described by three coupled nonlinear differential equations that exhibit chaotic behavior characterized by interesting trajectories in three-dimensional space.
+
+<img width="289" alt="image" src="https://github.com/garima-sagar/Chaotic-Attractors/assets/145219684/9e63a61c-db25-4739-9807-746799622ad7">
+
 
 ## Code Overview
 
